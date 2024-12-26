@@ -1,3 +1,5 @@
+# Area Effects
+
 Area Effects are lingering areas that inflict a Condition or Status, most often created by Runic Powers. When a creature leaves an Area Effect, the Condition ends on them.
 
 ## Confusing / Dot / Sedative

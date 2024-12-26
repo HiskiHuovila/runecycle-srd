@@ -1,3 +1,5 @@
+# Statuses
+
 Statuses work similar to Conditions.  Statuses cannot be Blocked, cannot be directly caused by Attacks and last indefinitely or until ended. 
 
 ## Asleep

@@ -1,3 +1,5 @@
+# Conditions
+
 Conditions are effects that affect creatures temporarily. By default each condition lasts 1 minute or until the narrative justifies it ending. Conditions of the same type cannot stack.
 
 ## Afraid
