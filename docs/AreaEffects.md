@@ -1,9 +1,9 @@
 # Area Effects
 
-Area Effects are lingering areas that inflict a Condition or Status, most often created by Runic Powers. When a creature leaves an Area Effect, the Condition ends on them.
+Area Effects are lingering areas that inflict a Condition or Status, most often created by Runic Powers. When a creature leaves an Area Effect, the Condition ends on them. 
 
 ## Confusing / Dot / Sedative
-All creatures in the area are Confused / have DOT / are Sleepy. Creatures that enter the area must roll immediately.
+All creatures in the area are Confused / have DOT / are Sleepy. Creatures that enter the area must roll immediately. All rolls reset to the highest die size every turn.
 
 ## Difficult Terrain
 The area turns into Difficult Terrain.
