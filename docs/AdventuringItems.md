@@ -82,7 +82,6 @@ All creatures in the area are inflicted with Hindered and the area becomes Diffi
 ### Grappling Gun
 
 **Activatable**  
-
 When activated, fires a single use grappling hook up to Distant. The hook lodges itself to any surface it can pierce, such as stone. The hook comes with rope up to Nearby.
 
 ### Hardening Foam
