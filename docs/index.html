@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Runecycle SRD</title>
+    <link rel="icon" href="_media/favicon.ico" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="System Reference Document for Runecycle ttrpg" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css"
+      title="dark"
+    />
+  </head>
+
+  <body>
+    <div id="app">Loading ...</div>
+    <script>
+      // Docsify configuration
+      window.$docsify = {
+        alias: {
+          '/.*/_navbar.md': '/_navbar.md'
+        },
+        auto2top: true,
+        coverpage: true,
+        executeScript: true,
+        loadSidebar: true,
+        loadNavbar: true,
+        mergeNavbar: true,
+        maxLevel: 4,
+        subMaxLevel: 2,
+        name: 'runecycle',
+        search: {
+          noData: {
+            '/': 'No results!',
+          },
+          paths: 'auto',
+          placeholder: {
+            '/': 'Search',
+          }
+        }
+      };
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+    <script>
+      // Public site only
+      if (/docsify/.test(location.host)) {
+        document.write(
+          '<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js"><\/script>'
+        );
+        document.write(
+          '<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/matomo.min.js"><\/script>'
+        );
+      }
+    </script>
+  </body>
+</html>
