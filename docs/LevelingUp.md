@@ -1,13 +1,14 @@
 ## Leveling Up
 
-The things you learn during the game are measured in Experience Points (XP). You receive XP after the end of each game session. Talk among the table and determine what you achieved. For each of the below questions that you can reply “yes” to, you get one XP:
--  Did you participate in the game?
--  Did you explore a new location?
--  Did you defeat one or more dangerous adversaries?
--  Did you overcome an obstacle without using force?
--  Did you act like your Aspect?
--  Did you perform another extraordinary action of some kind?
-You can use your XP to improve your skills or gain new powers. You can only spend XP when your PC gets a chance to rest, or between game sessions.
+When you adventure, your PC gains Experience Points (XP). At the end of each game session, talk among the table and determine what you achieved. You gain one XP for each of the following that happened during the game:
+-  You (the player) actively participated in the session
+-  You endured a violent encounter (Terra)
+-  You gained knowledge or explored a new location (Star)
+-  You made a bold, heroic or just choice (Sun)
+-  You overcame an obstacle using your wits (Moon)
+-  You followed your destiny, acted like your Aspect or did something extraordinary
+
+You can spend XP to purchase improvements or new powers during a Rest or between game sessions.
 
 ### Milestone leveling
 Your GM might want to change how fast you level up or otherwise demand more narrative integrity from leveling up. In this instance the GM can deal out XP whenever they deem appropriate.

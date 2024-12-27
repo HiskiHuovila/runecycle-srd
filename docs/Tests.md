@@ -12,7 +12,7 @@ Yes, and. If you roll two or more Successes, you reach your stated goal without 
 
 ### Only one attempt
 
-As a rule of thumb, you only have one chance to succeed with any action (including Runic Powers). Once you have rolled the dice – and rerolled if able– you may not roll again to achieve the same goal. You need to try something different or wait until the circumstances have changed in a substantial way. Or let another PC try. This rule does not apply to combat, where you can attack the same enemy multiple times.
+You only have one chance to succeed with any action (including Runic Powers). Once you have rolled the dice, and rerolled if able, you may not roll again to attempt the same goal in the same scenario.
 
 ## Test Types
 
@@ -28,7 +28,7 @@ This is a Test the GM asks a player to make. In a Called Test  the player makes 
 
 ## Modifiers
 
-Sometimes, external factors help you to succeed. Such modifiers will give you the possibility to reroll dice for free. Other times, something hinders your action. This removes one of your dice. You can get such modifiers in several different ways.
+External factors can modify your roll as determined by the GM. Each source of aid or hinderance imposes one Advantage or Disadvantage on your roll.
 
 ### Advantage (ADV)
 
@@ -56,7 +56,7 @@ Sometimes the situation calls for an entire group to work together. In these sit
 
 ## Attack rolls
 
-Attack rolls are specified in the Combat section. They generally follow the same  procedure as Tests but are not considered Tests by the rules.
+Attack rolls are specified in the Combat section. They generally follow the same procedure as Tests but are not considered Tests by the rules. For example, you can attempt to hit the same target multiple times.
 
 ## Help from others
 
@@ -64,7 +64,7 @@ Other PCs or NPCs can help you succeed at a skill roll, granting you adv. This m
 
 ## Boons
 
-The GM can grant PCs Boons. These are single use adv you store and can choose to apply to your Test later. Only one Boon can be used per Test. Boons generally don’t expire and can be used whenever appropriate but the GM can set a time limit for the Boon to expire or special conditions when a specific Boon can be used. Boons without conditions can be used retroactively to reroll one die on a Test.
+The GM can grant PCs Boons. These are single use adv you store and can choose to apply to your Test later. Only one Boon can be used per Test. Boons generally don’t expire and can be used whenever appropriate but the GM can set a time limit for the Boon to expire or special conditions when a specific Boon can be used. Boons without conditions can be used retroactively to reroll one die on a Test after you know the result.
 Boons can be gained, for example, from the following:
 -  Doing research
 -  Practicing or maintenance
