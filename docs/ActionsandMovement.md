@@ -10,7 +10,7 @@ You gain and additional Step for the Turn. Further, you Block Ranged Combat Atta
 
 ## Help
 
-You grant adv on a roll made by an ally and you regain 1 Stamina.
+You grant adv on a roll made by an ally and you regain 1 Stamina. Multiple people can Help an Attack.
 
 ## Hold
 

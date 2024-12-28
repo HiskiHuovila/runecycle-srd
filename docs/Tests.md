@@ -60,7 +60,7 @@ Attack rolls are specified in the Combat section. They generally follow the same
 
 ## Help from others
 
-Other PCs or NPCs can help you succeed at a skill roll, granting you adv. This must be declared before you roll your dice. It must also make sense in the story – the individuals helping you must be physically present and have the capacity to support your action and they must have a Tag that would be helpful in the situation. The GM has final say. Only one person can help you at a time.
+One person can help you on a Test, granting you adv. This must be declared before you roll, they must be physically able to help you and they must have a Tag that would be helpful in the situation. The GM has final say.
 
 ## Boons
 

@@ -2,10 +2,10 @@
 
 When you adventure, your PC gains Experience Points (XP). At the end of each game session, talk among the table and determine what you achieved. You gain one XP for each of the following that happened during the game:
 -  You (the player) actively participated in the session
--  You endured a violent encounter (Terra)
--  You gained knowledge or explored a new location (Star)
--  You made a bold, heroic or just choice (Sun)
--  You overcame an obstacle using your wits (Moon)
+-  You endured a violent encounter
+-  You gained knowledge or explored a new location
+-  You made a bold, heroic or just choice
+-  You overcame an obstacle using your wits
 -  You followed your destiny, acted like your Aspect or did something extraordinary
 
 You can spend XP to purchase improvements or new powers during a Rest or between game sessions.
