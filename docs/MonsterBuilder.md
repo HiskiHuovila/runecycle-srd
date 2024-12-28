@@ -50,7 +50,7 @@ Traits that are available to players are available to Monsters as well. Most of 
 - Climb (1): Is able to climb on all surfaces and does not consider climbing Difficult Terrain.
 - Empowered Attacks (2): Inflicts a certain Condition in addition to dealing damage if at least 1 damage is dealt.
 - Ethereal (1): Has permanent effect of Wraithwalk. Can still be attacked.
-- Explode on Death (2): Explodes on death with a circular area with diameter Close with damage of 2.
+- Explode on Death (2): Explodes on death an Attacks everyone within Touch with 2 damage.
 - Fast (1): Has an additional Step each turn. Optional: Can leap up to Nearby by combining steps.
 - Fast Strike (2):  Close Combat Attacks immediately after moving to Touch range of an enemy have adv.
 - Flight (1): Has the Flight Runic Power.
@@ -65,10 +65,9 @@ Traits that are available to players are available to Monsters as well. Most of 
 - Terraformer (2): All area within close of the Monster becomes Difficult Terrain for 1 minute. 
 - Terrifying scream (2): Action: Screams, causing Afraid to all who hear within Nearby.
 - Type Immunity (1): Is immune to a certain type of damage such as fire or ice. The strength of this varies depending on what Powers player use.
-- Undead (1): Regains 1 Heart per  minute after Combat Time has ended if not beheaded or fully destroyed.
+- Undead (1): Regains 1 Heart per minute after Combat Time has ended if not beheaded or fully destroyed.
 - Unfazed (2): Immune to all Conditions.
 - Unmovable (1): Immune to Flung and Prone.
-- Untouchable (1): Has permanent Disengage.
 
 > This list contains examples but you are encouraged to use it as a baseline and come up with your own features.
 

@@ -11,7 +11,7 @@ Consumable items are the main intended reward for Runecycle. They are relatively
 A magical item that grants full access to a new Runic Power is comparable to four level-ups.
 Once per day: If an item grants access to a Runic Power once per day, it is comparable to two level-ups.
 Traits: Traits are worth approximately two level-ups.
-Trait-enchancing: An item that turns a Trait into a Runic Power is also worth two level-ups.
+Trait-enhancing: An item that turns a Trait into a Runic Power is also worth two level-ups.
 Trait 1/day: An item that grants a Trait once per day is comparable to one level-up.
 
 #### 1/day
