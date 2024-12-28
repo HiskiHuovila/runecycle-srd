@@ -9,6 +9,8 @@
 - Combat & Conditions
 
   - [Intro](CombatIntro.md)
+  - [General Concepts](GeneralConcepts.md)
+  - [Actions & Movement](ActionsandMovement.md)
   - [Weapons & Attacking](WeaponsandAttacking.md)
   - [Rune Attacks](RuneAttacks.md)
   - [Conditions](Conditions.md)

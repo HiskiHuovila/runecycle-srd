@@ -4,13 +4,13 @@
 Activating the power takes an Action.
 
 ### Cast
-Any use of the power (including Tests) uses the Casting rules (page 60). All powers with Cast can but don’t have to be used to deal damage.
+Any use of the power (including Tests) uses the Casting rules. All powers with Cast can but don’t have to be used to deal damage.
 
 ### Focus
 Sustaining the effect requires you to Focus. You can only Focus on one effect at a time. You may drop Focus at any time. 
 
 ### Test
-Has a non-offensive use that requires you to make a Rune Test. See Rune Tests (page 55).
+Has a non-offensive use that requires you to make a Rune Test.
 
 ### Trait-cast
 You may pick the Cast part of the power as a Trait but are limited to Cast and cannot spend Stamina on the Casts limiting you to very simple effects.
@@ -20,10 +20,10 @@ You may pick the Cast part of the power as a Trait but are limited to Cast and c
 ### Combat Styles
 
 #### Charge and Strike	
-When you make a Close Combat Attack you may spend 1 Stamina to take an additional Step before making the attack, after which you make the attack with adv.
+Before you make a Close Combat Attack you may spend 1 Stamina to take an additional Step after which you make the attack with adv.
 
 #### Cleave
-When you make a Close Combat Attack using axes, greatswords and other large blades you may spend 1 Stamina to target all Engaged creatures. Roll the attack for all enemies individually.
+When you make a Close Combat Attack using axes, greatswords and other large blades you may spend 1 Stamina to target all creatures within Touch. Roll the attack for all enemies individually.
 
 #### Perfect Parry
 When you succeed on a Block against a Close Combat Attack you may spend 1 Stamina to immediately roll a Close Combat Attack against the attacker.
@@ -35,10 +35,10 @@ When you succeed on a Block against a Close Combat Attack you may spend 1 Stamin
 **Action Focus**  
 Your body  turns into a statue made of a strong material such as stone. Your weight increases tenfold and you become nearly immovable and indestructible, having immunity to most damage and Conditions. You are unable to move or take Actions. You must keep this form at least one minute. This is very straining on your body and can only be used once per Scene. 
 
-#### Combat instincts
+#### Combat Instincts
 
 Trait: Whenever a friendly creature becomes Vulnerable, you may spend 1 Stamina to make a Close Combat or Ranged Combat Attack against the attacker.  
-Trait: You may spend 1 Stamina to take a Turn immediately after an enemy’s First Strike resolves.
+Trait: You may spend 1 Stamina to take a Turn immediately after an enemy’s First Strike resolves, pausing the Round until your Turn ends.
 
 #### Control Decay
 
@@ -49,11 +49,12 @@ Test: You can attempt, for example, one of the following:
 -  Cause a statue to crumble
 -  Preserve a dead body or meat
 
-#### Master of Blade	
+#### Master of Blade
+
 You have trained with a specific bladed weapon to an unnatural level. While wielding this weapon, you have the following benefits:
--  Your weapon is able to cut through most materials.
--  You are able to perfectly control the size, speed and shape of your cuts.
--  Your weapon is indestructible.
+-  Your weapon is able to cut through most materials
+-  You are able to perfectly control the size, speed and shape of your cuts
+-  Your weapon is indestructible
 -  You ignore dis from type
 
 #### Uncanny Strength
@@ -76,7 +77,7 @@ Cast: Your voice can inflict damage and conditions.
 
 #### Move Free
 
-You may move through spaces of other creatures. You may take Actions while you are mid-movement using a Step. 
+You may move through spaces of other creatures. You may take Actions while you are mid-movement of a Step. 
 
 #### Ready Reflexes
 
@@ -93,7 +94,7 @@ You may spend 1 Stamina to roll a Skill Test to perform an acrobatic maneuver su
 **Action Cast Focus Test Trait-cast**  
 Cast: Blasts of psychic energy or mentally overpowering another creature.
 Test: You read the mind of a creature you can see and get a peek at their surface thoughts and feelings.
-Trait: You can communicate telepathically with other creatures using any languages you know. You may keep the connection while you are Focused.  You are aware of others trying to read your thoughts and can resist them.
+Trait: You can communicate telepathically with other creatures using any languages you know. You may keep the connection while you are Focused. You are aware of others trying to read your thoughts and can resist them.
 
 #### Spiritwalk	
 
