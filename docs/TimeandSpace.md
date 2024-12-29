@@ -3,9 +3,9 @@
 You will spend a large amount of time interacting with the world freely. Generally, unless interrupted by Combat Time, you will explore the world in Free Time.
 
 ## Scenes
-Free Time can loosely be divided into Scenes. These are periods of time during which PCs have a certain location they explore or interact with. A scene can be an intense investigation of a room, a brief walk through a forest or a fair period of downtime in a city. The GM determines what constitutes as a Scene and moves between them. While actively adventuring and a precise measurement is needed, a Scene is 10 minutes.
+Free Time can loosely be divided into Scenes. These are periods of time during which PCs have a certain location they explore or interact with. A Scene can be an intense investigation of a room, a brief walk through a forest or a fair period of downtime in a city. The GM determines what constitutes as a Scene and moves between them. While actively adventuring and a precise measurement is needed, a Scene is 10 minutes.
 
-> When every PC has had their turn to do something in a scene the GM can transition to the next scene. It is good practice to ask the table “Do you wish to continue to x?” and if no-one disagrees you can move the story forward.
+> When every PC has had their turn to do something in a Scene the GM can transition to the next scene. It is good practice to ask the table “Do you wish to continue to x?” and if no-one disagrees you can move the story forward.
 
 ## Theater of the Mind
 The most common way to explore the world in Free Time is without any maps or aids. The GM narrates what  the players see and the players are free to tell the GM what they wish to do. 

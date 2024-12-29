@@ -10,9 +10,7 @@ A roll of 6 or higher on a die is called a Success. A roll of 10 or higher on a 
 
 Yes, and. If you roll two or more Successes, you reach your stated goal without issue and might also gain some additional bonus effect, such as extra damage.
 
-### Only one attempt
-
-You only have one chance to succeed with any action (including Runic Powers). Once you have rolled the dice, and rerolled if able, you may not roll again to attempt the same goal in the same scenario.
+> A Test should be only attempted once per Scene. The result of the roll applies to the whole Scene. You can attempt multiple things that have the same Test roll but they must have separate goals.
 
 ## Test Types
 
@@ -24,11 +22,13 @@ A Rules Test is a Test that is specifically determined in the rules and has pre-
 
 This is a Test the GM asks a player to make. In a Called Test  the player makes a wager: what will they gain on Success and what will be the penalty for failure, and the GM and other players negotiate an appropriate offer. Rolling multiple Successes allows players to request additional benefits.
 
-> Generally, each Test should be only attempted once per Scene. The result of the roll applies to the whole Scene.
+## Attack rolls
+
+Attack rolls are specified in the Combat section. They generally follow the same procedure as Tests but are not considered Tests by the rules. For example, you can attempt to hit the same target multiple times.
 
 ## Modifiers
 
-External factors can modify your roll as determined by the GM. Each source of aid or hinderance imposes one Advantage or Disadvantage on your roll.
+External factors can modify your roll as determined by the GM. Each source of aid or hindrance imposes one Advantage or Disadvantage on your roll.
 
 ### Advantage (ADV)
 
@@ -42,11 +42,11 @@ When you have dis, you must remove any one die. This means you’ll be rolling j
 
 If you have several adv or dis, one adv cancels out one dis.
 
-#### Excess Advantages
+### Excess Advantages
 
 If you have more than one adv you may reroll each die once.
 
-#### Excess Disadvantages
+### Excess Disadvantages
 
 If you have more than one dis, your remaining die becomes a D6.
 
@@ -54,13 +54,9 @@ If you have more than one dis, your remaining die becomes a D6.
 
 Sometimes the situation calls for an entire group to work together. In these situations every member of the group must make a Test and the group succeeds if the total number of Successes equals or exceeds the number of participants. You cannot Help each other while performing a group Test.
 
-## Attack rolls
+## Helping
 
-Attack rolls are specified in the Combat section. They generally follow the same procedure as Tests but are not considered Tests by the rules. For example, you can attempt to hit the same target multiple times.
-
-## Help from others
-
-One person can help you on a Test, granting you adv. This must be declared before you roll, they must be physically able to help you and they must have a Tag that would be helpful in the situation. The GM has final say.
+One person can Help you on a Test, granting you adv. This must be declared before you roll, they must be physically able to help you and they must have a Tag that would be helpful in the situation.
 
 ## Boons
 
@@ -75,7 +71,7 @@ Boons can be gained, for example, from the following:
 
 The GM can impose PCs Banes. These are single effect dis that you gain and are forced to apply on your next Test. GM can set a time limit for a Bane to expire or special conditions when a specific Bane triggers.
 Banes can be gained, for example, from the following:
--  As consequenc for failing a Test
+-  As consequence for failing a Test
 -  Extreme weather conditions
 -  Going without sleep
 -  Being ill or poisoned
