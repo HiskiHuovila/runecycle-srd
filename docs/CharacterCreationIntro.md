@@ -24,7 +24,7 @@ Allegiance is a tool for you to understand who your PC is affiliated with, for e
 Adversary is a tool for you to understand who your PC detests or avoids, for example a former ally or faction. It has no bearing on game mechanics.
 
 ### Notable Quirk
-A memorable  quirk makes your character more interesting without affecting game mechanics. Optinally roll or choose from the table below.
+A memorable  quirk makes your character more interesting without affecting game mechanics. Optionally roll or choose from the table below.
 
 ## The Four Signs
 
